@@ -29,7 +29,7 @@ Financial transaction Project:
 [Paper Saver](https://github.com/scalise0313/PaperSaverApp.git).
 
 My Merch Sales app on the Android App Store:
-https://play.google.com/store/apps/details?id=ericscalise.cs499.bloodhoundcommunity
+[Bloodhounds Merch](https://play.google.com/store/apps/details?id=ericscalise.cs499.bloodhoundcommunity)
 
 
 
